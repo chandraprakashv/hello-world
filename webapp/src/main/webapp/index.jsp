@@ -1,3 +1,1 @@
-CI/CD Success
-
-Go for nest Proj -2
+Core CI/CD Project Success
